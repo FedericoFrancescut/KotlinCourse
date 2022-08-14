@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="from_yourself_text">From Yourself</string>
+    <string name="happy_birthday_text">Happy Birthday Federico!!</string>
+    <string name="date_text">02/02/2022</string>
+    <string name="muffin_description_text">a pink muffin with stars over a light blue background</string>
+</resources>
